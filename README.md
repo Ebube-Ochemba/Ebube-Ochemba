@@ -34,7 +34,6 @@
 <img src="https://skillicons.dev/icons?i=py"/>
 <img src="https://skillicons.dev/icons?i=r"/>
 <img src="https://skillicons.dev/icons?i=ts"/>
-<img src="https://skillicons.dev/icons?i=jest"/>
 </div>
 
 </td><td valign="top" width="20%">
