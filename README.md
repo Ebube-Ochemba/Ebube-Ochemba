@@ -69,8 +69,8 @@
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=linux"/>
 <img src="https://skillicons.dev/icons?i=nginx"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
 </div>
 
 </td></tr></table>
