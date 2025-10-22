@@ -8,7 +8,7 @@
 - 🤔 I’m particularly enthusiastic about **exploring** the world of **open-source**
 - 💬 You can explore my repositories and ask me anything about them
 - 📫 How to reach me: **X or LinkedIn**
-- ⚡ Fun fact: I have a BSc in Human Anatomy👨🏽‍🎓
+- ⚡ Fun fact: loading...
 
 <h3 align="left">Connect with me ⛓</h3>
 <p align="left">
