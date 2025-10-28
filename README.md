@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 I’m a FullStack Software Developer
-- 🌱 I’m currently learning **NEXTjs**, **AI/ML** and **"Cloud"**
+- 🌱 I’m currently learning **AI/ML**, **Docker** and **"Cloud"**
 - 🤔 I’m particularly enthusiastic about **exploring** the world of **open-source**
 - 💬 You can explore my repositories and ask me anything about them
 - 📫 How to reach me: **X or LinkedIn**
@@ -44,6 +44,7 @@
 <img src="https://skillicons.dev/icons?i=css"/>
 <img src="https://skillicons.dev/icons?i=js"/>
 <img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nextjs"/>
 <img src="https://skillicons.dev/icons?i=tailwind"/>
 </div>
 
